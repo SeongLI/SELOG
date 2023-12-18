@@ -1,4 +1,3 @@
-# tech_blog
-신입 개발자 전공 지식 / 금융 도메인 지식 정리
+블로그 정리를 해야겠어욥
 
 [My_Velog](https://velog.io/@seong_li)
